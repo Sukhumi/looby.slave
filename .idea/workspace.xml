@@ -2,51 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b4ac58c-3b5c-4284-a349-8d01a9c45133" name="Default" comment="My Mess &lt;3">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/annotation-processors.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Blackjack/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Blackjack/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Blackjack/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Blackjack/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Blackjack/init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Commands/Help.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Commands/Identify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Commands/Ping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Commands/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Commands/Shutdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Commands/Suggest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Commands/TODO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Commands/executeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Commands/hiddenCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReadWriteProperties/configRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReadWriteProperties/configValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReadWriteProperties/configWrite.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/Suggests" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/TODO" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Commands/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Commands/Help.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -91,11 +50,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Commands/Help.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+            <state relative-caret-position="211">
+              <caret line="27" column="120" selection-start-line="27" selection-start-column="120" selection-end-line="27" selection-end-column="120" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/config/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="65" selection-end-line="1" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -112,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Commands/Suggest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="11" column="74" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="74" />
+            <state relative-caret-position="96">
+              <caret line="11" column="74" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -171,18 +139,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
               <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -490,6 +446,42 @@
               <item name="looby.slave" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="looby.slave" type="b2602c69:ProjectViewProjectNode" />
+              <item name="looby.slave" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="looby.slave" type="b2602c69:ProjectViewProjectNode" />
+              <item name="looby.slave" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="looby.slave" type="b2602c69:ProjectViewProjectNode" />
+              <item name="looby.slave" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="looby.slave" type="b2602c69:ProjectViewProjectNode" />
+              <item name="looby.slave" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ReadWriteProperties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="looby.slave" type="b2602c69:ProjectViewProjectNode" />
+              <item name="looby.slave" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -584,6 +576,14 @@
       <option name="presentableId" value="Default" />
       <updated>1547047140913</updated>
     </task>
+    <task id="LOCAL-00001" summary="My Mess &lt;3">
+      <created>1554798820084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554798820084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -597,8 +597,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1770" height="971" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49880952" visible="true" weight="0.3084112" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49880952" visible="true" weight="0.3084112" />
       <window_info id="Structure" order="1" sideWeight="0.5011905" side_tool="true" weight="0.30140188" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -615,9 +616,9 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49941587" weight="0.3297619" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49941587" weight="0.3297619" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50292057" side_tool="true" weight="0.43809524" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3297619" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3297619" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.15268065" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.49824765" visible="true" weight="0.3297619" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49824765" weight="0.3297619" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -878,13 +879,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
@@ -892,13 +886,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Commands/Suggest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="11" column="74" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="74" />
         </state>
       </provider>
     </entry>
@@ -919,13 +906,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReadWriteProperties/configRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -969,10 +949,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="65" selection-end-line="1" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReadWriteProperties/configRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Commands/Suggest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="74" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Commands/Help.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        <state relative-caret-position="211">
+          <caret line="27" column="120" selection-start-line="27" selection-start-column="120" selection-end-line="27" selection-end-column="120" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

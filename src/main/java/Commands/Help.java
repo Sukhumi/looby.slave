@@ -25,6 +25,7 @@ class Help {
     static void help(MessageChannel channel)
     {
         channel.sendMessage("Usage: help <command> gives you the help option of a given command").queue();
+        channel.sendMessage("ALSOOO, I am now on GitHub! >https://github.com/Sukhumi/looby.slave/tree/master<").queue();
     }
 
     private static List<String> findClasses(File directory) {
